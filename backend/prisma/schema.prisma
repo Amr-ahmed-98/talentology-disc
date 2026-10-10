@@ -1,0 +1,44 @@
+generator client {
+  provider     = "prisma-client"
+  output       = "../src/generated/prisma"
+  moduleFormat = "cjs"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  FACILITATOR
+  MANAGER
+}
+
+model User {
+  id           String @id @default(cuid())
+  name         String
+  email        String @unique
+  passwordHash String
+  role         Role
+}
+
+model Participant {
+  id          String            @id @default(cuid())
+  name        String
+  email       String            @unique
+  inviteToken String            @unique @default(uuid())
+  createdAt   DateTime          @default(now())
+  result      AssessmentResult?
+}
+
+model AssessmentResult {
+  id            String      @id @default(cuid())
+  participantId String      @unique
+  participant   Participant @relation(fields: [participantId], references: [id], onDelete: Cascade)
+  scoreD        Int
+  scoreI        Int
+  scoreS        Int
+  scoreC        Int
+  profileCode   String
+  rankings      Json
+  completedAt   DateTime    @default(now())
+}

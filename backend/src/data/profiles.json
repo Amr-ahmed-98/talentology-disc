@@ -1,0 +1,113 @@
+[
+  {
+    "code": "CD",
+    "name": "Investigator",
+    "nameAr": "المحقق",
+    "keywords": [
+      "investigator",
+      "creative"
+    ],
+    "description": "Analytical and independent. Digs into details, questions assumptions and builds careful, original solutions."
+  },
+  {
+    "code": "CI",
+    "name": "Fact-Based Persuader",
+    "nameAr": "المقنع بالحقائق",
+    "keywords": [],
+    "description": "Precise and articulate. Wins people over with accurate information and well-prepared arguments."
+  },
+  {
+    "code": "CS",
+    "name": "Objective Thinker",
+    "nameAr": "الموضوعي",
+    "keywords": [
+      "objective thinker",
+      "perfectionist"
+    ],
+    "description": "Calm, fair and thorough. Judges situations on evidence and holds work to a high standard of quality."
+  },
+  {
+    "code": "DI",
+    "name": "Persuader",
+    "nameAr": "المقنع",
+    "keywords": [
+      "persuader",
+      "inspirational",
+      "results oriented"
+    ],
+    "description": "Confident and driven. Motivates others and pushes hard to get results."
+  },
+  {
+    "code": "DS",
+    "name": "Methodical Achiever",
+    "nameAr": "النتائج بمنهجية",
+    "keywords": [],
+    "description": "Determined but steady. Reaches goals through a clear, consistent plan rather than speed alone."
+  },
+  {
+    "code": "DC",
+    "name": "Achiever",
+    "nameAr": "المنجز",
+    "keywords": [
+      "achiever",
+      "investigator",
+      "creative"
+    ],
+    "description": "Goal-focused and exacting. Combines drive with careful analysis to deliver high-quality outcomes."
+  },
+  {
+    "code": "ID",
+    "name": "Inspirer",
+    "nameAr": "الملهم",
+    "keywords": [
+      "enthusiast",
+      "inspirational"
+    ],
+    "description": "Energetic and bold. Sparks enthusiasm in others and takes the lead in new ideas."
+  },
+  {
+    "code": "IC",
+    "name": "Fact-Based Persuader",
+    "nameAr": "المقنع بالحقائق",
+    "keywords": [],
+    "description": "Sociable and well-informed. Influences others by backing enthusiasm with solid facts."
+  },
+  {
+    "code": "IS",
+    "name": "Active Supporter",
+    "nameAr": "النشيط",
+    "keywords": [
+      "counselor",
+      "enthusiast"
+    ],
+    "description": "Warm and lively. Encourages people, listens well and keeps the team positive."
+  },
+  {
+    "code": "SC",
+    "name": "Diligent Worker",
+    "nameAr": "المجتهد",
+    "keywords": [
+      "practitioner",
+      "objective thinker",
+      "perfectionist"
+    ],
+    "description": "Reliable and careful. Works methodically, follows through and values accuracy."
+  },
+  {
+    "code": "SD",
+    "name": "Deliberate Achiever",
+    "nameAr": "الإنجاز بروية",
+    "keywords": [],
+    "description": "Patient and persistent. Gets things done calmly and steadily, without rushing."
+  },
+  {
+    "code": "SI",
+    "name": "People First",
+    "nameAr": "الناس أولوية",
+    "keywords": [
+      "coach",
+      "counselor"
+    ],
+    "description": "Caring and approachable. Puts people first, supports others and builds trust."
+  }
+]

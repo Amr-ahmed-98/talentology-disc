@@ -1,0 +1,408 @@
+[
+  {
+    "id": "g01",
+    "words": [
+      {
+        "id": "g01-w1",
+        "text": "Accurate",
+        "textAr": "دقيق",
+        "dimension": "C"
+      },
+      {
+        "id": "g01-w2",
+        "text": "Decisive",
+        "textAr": "يتخذ قرار بسهولة",
+        "dimension": "D"
+      },
+      {
+        "id": "g01-w3",
+        "text": "Considerate",
+        "textAr": "يراعي مشاعر الغير",
+        "dimension": "S"
+      },
+      {
+        "id": "g01-w4",
+        "text": "Confident",
+        "textAr": "واثق من نفسه",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g02",
+    "words": [
+      {
+        "id": "g02-w1",
+        "text": "Introspective",
+        "textAr": "عميق التفكير والتأمل",
+        "dimension": "C"
+      },
+      {
+        "id": "g02-w2",
+        "text": "Strong willed",
+        "textAr": "قوي الإرادة",
+        "dimension": "D"
+      },
+      {
+        "id": "g02-w3",
+        "text": "Moderate",
+        "textAr": "معتدل",
+        "dimension": "S"
+      },
+      {
+        "id": "g02-w4",
+        "text": "Inspiring",
+        "textAr": "يلهم الآخرين",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g03",
+    "words": [
+      {
+        "id": "g03-w1",
+        "text": "Cautious",
+        "textAr": "حذر",
+        "dimension": "C"
+      },
+      {
+        "id": "g03-w2",
+        "text": "Straight-Forward",
+        "textAr": "صريح بدون مجاملة",
+        "dimension": "D"
+      },
+      {
+        "id": "g03-w3",
+        "text": "Generous",
+        "textAr": "معطاء",
+        "dimension": "S"
+      },
+      {
+        "id": "g03-w4",
+        "text": "Charming",
+        "textAr": "جذاب",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g04",
+    "words": [
+      {
+        "id": "g04-w1",
+        "text": "Orderly",
+        "textAr": "مرتب",
+        "dimension": "C"
+      },
+      {
+        "id": "g04-w2",
+        "text": "Determined",
+        "textAr": "صاحب إصرار عال",
+        "dimension": "D"
+      },
+      {
+        "id": "g04-w3",
+        "text": "Neighborly",
+        "textAr": "حسن المعشر",
+        "dimension": "S"
+      },
+      {
+        "id": "g04-w4",
+        "text": "Playful",
+        "textAr": "مرح",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g05",
+    "words": [
+      {
+        "id": "g05-w1",
+        "text": "Disciplined",
+        "textAr": "منضبط",
+        "dimension": "C"
+      },
+      {
+        "id": "g05-w2",
+        "text": "Assertive",
+        "textAr": "حازم",
+        "dimension": "D"
+      },
+      {
+        "id": "g05-w3",
+        "text": "Good Listener",
+        "textAr": "منصت جيد",
+        "dimension": "S"
+      },
+      {
+        "id": "g05-w4",
+        "text": "Cheerful",
+        "textAr": "مبتهج",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g06",
+    "words": [
+      {
+        "id": "g06-w1",
+        "text": "Soft spoken",
+        "textAr": "مهذب",
+        "dimension": "C"
+      },
+      {
+        "id": "g06-w2",
+        "text": "Daring",
+        "textAr": "جريء",
+        "dimension": "D"
+      },
+      {
+        "id": "g06-w3",
+        "text": "Sympathetic",
+        "textAr": "متعاطف",
+        "dimension": "S"
+      },
+      {
+        "id": "g06-w4",
+        "text": "Entertaining",
+        "textAr": "مسلي",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g07",
+    "words": [
+      {
+        "id": "g07-w1",
+        "text": "Careful",
+        "textAr": "محتاط",
+        "dimension": "C"
+      },
+      {
+        "id": "g07-w2",
+        "text": "Competitive",
+        "textAr": "يحب التنافس",
+        "dimension": "D"
+      },
+      {
+        "id": "g07-w3",
+        "text": "Even-tempered",
+        "textAr": "لا يغضب بسرعة",
+        "dimension": "S"
+      },
+      {
+        "id": "g07-w4",
+        "text": "Enthusiastic",
+        "textAr": "متحمس",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g08",
+    "words": [
+      {
+        "id": "g08-w1",
+        "text": "Controlled",
+        "textAr": "يتحكم بنفسه",
+        "dimension": "C"
+      },
+      {
+        "id": "g08-w2",
+        "text": "Pioneering",
+        "textAr": "ريادي",
+        "dimension": "D"
+      },
+      {
+        "id": "g08-w3",
+        "text": "Steady",
+        "textAr": "متزن",
+        "dimension": "S"
+      },
+      {
+        "id": "g08-w4",
+        "text": "Poised",
+        "textAr": "مستعد",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g09",
+    "words": [
+      {
+        "id": "g09-w1",
+        "text": "Correct",
+        "textAr": "على حق",
+        "dimension": "C"
+      },
+      {
+        "id": "g09-w2",
+        "text": "Daring",
+        "textAr": "جريء",
+        "dimension": "D"
+      },
+      {
+        "id": "g09-w3",
+        "text": "Compassionate",
+        "textAr": "متعاطف",
+        "dimension": "S"
+      },
+      {
+        "id": "g09-w4",
+        "text": "Expressive",
+        "textAr": "معبّر",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g10",
+    "words": [
+      {
+        "id": "g10-w1",
+        "text": "Restrained",
+        "textAr": "يكبح عواطفه",
+        "dimension": "C"
+      },
+      {
+        "id": "g10-w2",
+        "text": "Forceful",
+        "textAr": "يجبر الآخرين",
+        "dimension": "D"
+      },
+      {
+        "id": "g10-w3",
+        "text": "Accommodating",
+        "textAr": "يستوعب الآخرين",
+        "dimension": "S"
+      },
+      {
+        "id": "g10-w4",
+        "text": "Talkative",
+        "textAr": "متحدث",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g11",
+    "words": [
+      {
+        "id": "g11-w1",
+        "text": "Tactful",
+        "textAr": "مهذب",
+        "dimension": "C"
+      },
+      {
+        "id": "g11-w2",
+        "text": "Extroverted",
+        "textAr": "منفتح على الآخرين",
+        "dimension": "D"
+      },
+      {
+        "id": "g11-w3",
+        "text": "Stable",
+        "textAr": "متزن",
+        "dimension": "S"
+      },
+      {
+        "id": "g11-w4",
+        "text": "Persuasive",
+        "textAr": "مقنع",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g12",
+    "words": [
+      {
+        "id": "g12-w1",
+        "text": "Constant",
+        "textAr": "ثابت",
+        "dimension": "C"
+      },
+      {
+        "id": "g12-w2",
+        "text": "Impatient",
+        "textAr": "مستعجل",
+        "dimension": "D"
+      },
+      {
+        "id": "g12-w3",
+        "text": "Cooperative",
+        "textAr": "متعاون",
+        "dimension": "S"
+      },
+      {
+        "id": "g12-w4",
+        "text": "Gregarious",
+        "textAr": "اجتماعي",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g13",
+    "words": [
+      {
+        "id": "g13-w1",
+        "text": "Impartial",
+        "textAr": "موضوعي",
+        "dimension": "C"
+      },
+      {
+        "id": "g13-w2",
+        "text": "Vigorous",
+        "textAr": "نشيط",
+        "dimension": "D"
+      },
+      {
+        "id": "g13-w3",
+        "text": "Calm",
+        "textAr": "هادئ",
+        "dimension": "S"
+      },
+      {
+        "id": "g13-w4",
+        "text": "Influential",
+        "textAr": "مؤثر",
+        "dimension": "I"
+      }
+    ]
+  },
+  {
+    "id": "g14",
+    "words": [
+      {
+        "id": "g14-w1",
+        "text": "Diplomatic",
+        "textAr": "لبق",
+        "dimension": "C"
+      },
+      {
+        "id": "g14-w2",
+        "text": "Outspoken",
+        "textAr": "صريح",
+        "dimension": "D"
+      },
+      {
+        "id": "g14-w3",
+        "text": "Accepting",
+        "textAr": "يقبل الآخرين",
+        "dimension": "S"
+      },
+      {
+        "id": "g14-w4",
+        "text": "Friendly",
+        "textAr": "ودود",
+        "dimension": "I"
+      }
+    ]
+  }
+]
